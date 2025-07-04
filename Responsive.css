@@ -1,0 +1,24 @@
+@media (max-width: 732px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li a {
+    padding: 12px;
+    text-align: center;
+  }
+
+  section {
+    padding: 15px;
+    margin: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+}
